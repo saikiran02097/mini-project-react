@@ -1,0 +1,117 @@
+h2 {
+    font-size:170px;position:relative;
+    top:100px;left:200px;
+  }
+  body 
+{
+   overflow-y: scroll !important;
+   background: grey !important;
+} 
+::-webkit-input-placeholder 
+{
+   text-align: center;
+}
+#myModal1
+{
+   position:relative;
+   left: 20;
+   top: 200; 
+}
+#myModal2
+{
+   position:relative;
+   left: 20;
+   top: 200; 
+}
+#myModal6
+{
+   position:relative;
+   left: 20;
+   top: 200; 
+}
+#modal-login
+{
+   position:relative;
+   left: 40;
+   top: 60; 
+   overflow:hidden;
+}
+#eo
+{
+   position:relative;
+   left: -10;
+   top: -20; 
+}
+#eeo
+{
+   position:relative;
+   left: -90;
+   top: -20; 
+}
+#fo
+{
+   position:relative;
+   left: -365;
+   top: 10; 
+}
+#ffo
+{
+   position:relative;
+   left: -311;
+   top: -25; 
+}
+#mv
+{
+   position:relative;
+   left: 170;
+   top: -55; 
+}
+#nv
+{
+   position:relative;
+   left: 170;
+   top: -60; 
+}
+#form-emil
+{
+   position:relative;
+   left: 0;
+   top: -30; 
+}
+#form-nber
+{
+   position:relative;
+   left: 0;
+   top: -20; 
+}
+#reg
+{
+   position:relative;
+   left:0;
+   top: -5; 
+}
+#eye1
+{
+   position:relative;
+   top:33;
+   left:490;
+}
+#eye2
+{
+   position:relative;
+   top:33;
+   left:490;
+}
+#eye3
+{
+   position:relative;
+   top:33;
+   left:490;
+}
+#divCheckPassword
+{
+   position:relative;
+   top:105;
+   left:105;
+   font-color:green;
+}
